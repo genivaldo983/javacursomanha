@@ -1,0 +1,24 @@
+package javaCurso;
+import java.util. Scanner; 
+public class Juroscompostos {
+	public static void main(String[] args) {
+		
+		// Instanciando uma classe PARA O USA-LA:
+		Scanner sc = new Scanner(System.in);
+		// Entrada do usuario:
+		// pegando o capital inicial: 
+		System.out.println("Digite o capital:");
+		double capital = sc.nextDouble();
+		// pegando a taxa de  juros:
+		System.out.println("qual é a taxa de juros:");
+		double taxa = sc.nextDouble();
+		
+		System.out.println(" Digite tempo");
+		int tempo = sc.nextInt();
+		//Calculando os juros compostos:
+		double montante = capital * Math.pow(1+ (taxa /100), tempo);
+		sc.close ();
+				
+	}
+
+}

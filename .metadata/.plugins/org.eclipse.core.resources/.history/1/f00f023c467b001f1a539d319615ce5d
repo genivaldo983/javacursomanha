@@ -1,0 +1,19 @@
+package javaCurso;
+
+public class TrabalbhandocomStrings{
+
+	public static void main(String[] args) {
+	String texto ="Bem vindo ao Curso de java";
+	String texto2="vamos aprender String.";
+	//.Comprimento da strig:
+	
+	String nome="Genivaldo de Holanda Monteiro";
+	System.out.println("Comprimentoda String:" +nome.length());
+	
+	
+	
+	
+
+	}
+
+}

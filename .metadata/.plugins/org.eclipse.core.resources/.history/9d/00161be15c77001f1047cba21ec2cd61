@@ -1,0 +1,23 @@
+package javaCurso;
+
+public class JuroSimples {
+import java.util.Scanner;
+	publicclass{Jurosimkples
+//Instanciando a classe (usando ):
+Scnnner scanner =new Scanner (system,int);
+	//Entrda de valores:
+	system.out.prilintln()
+	System.out.println("Dgite o CAPITAL:");DOUBLE = SCANNER .NEXTDOUBLE();
+	System.out.PRINTLN("INFORME TAXA DE jUROS(%): ");
+	System.out.PRINTLN("Informeano")
+	//Calculando os juros=(capital*taxa*tempo)/100;
+	system.out.println("o valor dos juros são:"+juros);
+	//resultado:
+	double total=capital +juros;
+	system.out.println("o valor  dos jurios são :+juros");
+	
+	
+	
+	}
+
+}

@@ -1,0 +1,31 @@
+package javaCurso;
+
+public class Switch {
+
+	public static void main(String[] args) {
+		int mes int hora=6horas ;
+
+		switch (mes) {
+		case 1:
+			System.out.println("janeiro");
+			break;
+		case 2:
+			System.out.println("feveiro");
+			break;
+		case 3:
+			System.out.println("março");
+			break;
+		case 4:
+			System.out.println("abril");
+			break;
+		case 5:
+			System.out.println("maio");
+			break;
+		case 6:
+			System.out.println("junho");
+			break;
+	switch	(6)hora 1:
+		systemout.println;}
+	}
+
+}

@@ -1,0 +1,2 @@
+module variavel1 {
+}

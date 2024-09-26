@@ -1,0 +1,11 @@
+package javaCurso;
+
+public class If {
+public static void main(String[] args) {
+	//Conhecendo   o Verificando o
+	int idade=20;
+	// verificando o valor:
+	If system .out.print("o O VALORÉ MAIOR QUE 20!");
+	
+
+}

@@ -1,0 +1,1597 @@
+!SESSION 2024-09-10 11:55:05.729 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-10 11:55:08.035
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-10 11:55:22.896
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-10 11:55:29.527
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-11 08:04:25.280 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-11 08:04:40.927
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-09-11 08:04:41.777
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-11 08:04:42.211
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-11 08:04:47.477
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-12 08:09:24.685 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-12 08:09:41.716
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-12 08:09:42.778
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-12 08:09:47.507
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-12 08:15:54.368 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-12 08:15:56.019
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-12 08:15:56.817
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-12 08:16:00.362
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-12 08:49:02.323 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data file:/C:/Users/Manha/eclipse-workspace/
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-12 08:49:03.624
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.osgi 2 0 2024-09-12 08:49:08.509
+!MESSAGE While loading class "org.eclipse.emf.ecore.xmi.XMLResource", thread "Thread[#59,Refresh Thread: Equinox Container: 1e700f80-d784-4498-8a12-82cfed0341e1,5,main]" timed out waiting (2ms) for thread "Thread[#59,Refresh Thread: Equinox Container: 1e700f80-d784-4498-8a12-82cfed0341e1,5,main]" to finish starting bundle "org.eclipse.emf.ecore.xmi_2.37.0.v20231208-1346 [166]". To avoid deadlock, thread "Thread[#59,Refresh Thread: Equinox Container: 1e700f80-d784-4498-8a12-82cfed0341e1,5,main]" is proceeding but "org.eclipse.emf.ecore.xmi.XMLResource" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: Unable to acquire the state change lock for the module: osgi.identity; type="osgi.bundle"; version:Version="2.37.0.v20231208-1346"; osgi.identity="org.eclipse.emf.ecore.xmi"; singleton:="true" [id=166] STARTED [UNRESOLVED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:373)
+	at org.eclipse.osgi.container.Module.start(Module.java:447)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:528)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:122)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:620)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:348)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:414)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:516)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at org.eclipse.oomph.p2.internal.core.AgentImpl$2.createElement(AgentImpl.java:181)
+	at org.eclipse.oomph.p2.internal.core.AgentImpl$2.createElement(AgentImpl.java:1)
+	at org.eclipse.oomph.p2.internal.core.PersistentMap.loadElement(PersistentMap.java:213)
+	at org.eclipse.oomph.p2.internal.core.AgentImpl$2.loadElement(AgentImpl.java:188)
+	at org.eclipse.oomph.p2.internal.core.AgentImpl$2.loadElement(AgentImpl.java:1)
+	at org.eclipse.oomph.p2.internal.core.PersistentMap$1.handleKey(PersistentMap.java:89)
+	at org.eclipse.oomph.p2.internal.core.PersistentMap.load(PersistentMap.java:254)
+	at org.eclipse.oomph.p2.internal.core.PersistentMap.load(PersistentMap.java:84)
+	at org.eclipse.oomph.p2.internal.core.AgentImpl.<init>(AgentImpl.java:199)
+	at org.eclipse.oomph.p2.internal.core.AgentManagerImpl$2.createElement(AgentManagerImpl.java:125)
+	at org.eclipse.oomph.p2.internal.core.AgentManagerImpl$2.createElement(AgentManagerImpl.java:1)
+	at org.eclipse.oomph.p2.internal.core.PersistentMap.loadElement(PersistentMap.java:213)
+	at org.eclipse.oomph.p2.internal.core.AgentManagerImpl$2.loadElement(AgentManagerImpl.java:116)
+	at org.eclipse.oomph.p2.internal.core.AgentManagerImpl$2.loadElement(AgentManagerImpl.java:1)
+	at org.eclipse.oomph.p2.internal.core.PersistentMap$1.handleKey(PersistentMap.java:89)
+	at org.eclipse.oomph.p2.internal.core.PersistentMap.load(PersistentMap.java:254)
+	at org.eclipse.oomph.p2.internal.core.PersistentMap.load(PersistentMap.java:84)
+	at org.eclipse.oomph.p2.internal.core.AgentManagerImpl.<init>(AgentManagerImpl.java:175)
+	at org.eclipse.oomph.p2.internal.core.AgentManagerImpl.<init>(AgentManagerImpl.java:68)
+	at org.eclipse.oomph.p2.core.P2Util.getAgentManager(P2Util.java:100)
+	at org.eclipse.oomph.p2.internal.core.P2CorePlugin$Implementation.stop(P2CorePlugin.java:177)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:903)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:571)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.stop(BundleContextImpl.java:895)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.stopWorker0(EquinoxBundle.java:1071)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.stopWorker(EquinoxBundle.java:392)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:695)
+	at org.eclipse.osgi.container.Module.stop(Module.java:554)
+	at org.eclipse.osgi.container.ModuleContainer.unresolve0(ModuleContainer.java:1227)
+	at org.eclipse.osgi.container.ModuleContainer.unresolve(ModuleContainer.java:1133)
+	at org.eclipse.osgi.container.ModuleContainer.refresh(ModuleContainer.java:1341)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerWiring.dispatchEvent(ModuleContainer.java:1736)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerWiring.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+Caused by: java.lang.IllegalStateException: Cannot transition to the state "STARTED" while already in the process of transition to the following states: [UNRESOLVED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:365)
+	... 47 more
+Root exception:
+java.lang.IllegalStateException: Cannot transition to the state "STARTED" while already in the process of transition to the following states: [UNRESOLVED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:365)
+	at org.eclipse.osgi.container.Module.start(Module.java:447)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:528)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:122)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:620)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:348)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:414)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:516)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at org.eclipse.oomph.p2.internal.core.AgentImpl$2.createElement(AgentImpl.java:181)
+	at org.eclipse.oomph.p2.internal.core.AgentImpl$2.createElement(AgentImpl.java:1)
+	at org.eclipse.oomph.p2.internal.core.PersistentMap.loadElement(PersistentMap.java:213)
+	at org.eclipse.oomph.p2.internal.core.AgentImpl$2.loadElement(AgentImpl.java:188)
+	at org.eclipse.oomph.p2.internal.core.AgentImpl$2.loadElement(AgentImpl.java:1)
+	at org.eclipse.oomph.p2.internal.core.PersistentMap$1.handleKey(PersistentMap.java:89)
+	at org.eclipse.oomph.p2.internal.core.PersistentMap.load(PersistentMap.java:254)
+	at org.eclipse.oomph.p2.internal.core.PersistentMap.load(PersistentMap.java:84)
+	at org.eclipse.oomph.p2.internal.core.AgentImpl.<init>(AgentImpl.java:199)
+	at org.eclipse.oomph.p2.internal.core.AgentManagerImpl$2.createElement(AgentManagerImpl.java:125)
+	at org.eclipse.oomph.p2.internal.core.AgentManagerImpl$2.createElement(AgentManagerImpl.java:1)
+	at org.eclipse.oomph.p2.internal.core.PersistentMap.loadElement(PersistentMap.java:213)
+	at org.eclipse.oomph.p2.internal.core.AgentManagerImpl$2.loadElement(AgentManagerImpl.java:116)
+	at org.eclipse.oomph.p2.internal.core.AgentManagerImpl$2.loadElement(AgentManagerImpl.java:1)
+	at org.eclipse.oomph.p2.internal.core.PersistentMap$1.handleKey(PersistentMap.java:89)
+	at org.eclipse.oomph.p2.internal.core.PersistentMap.load(PersistentMap.java:254)
+	at org.eclipse.oomph.p2.internal.core.PersistentMap.load(PersistentMap.java:84)
+	at org.eclipse.oomph.p2.internal.core.AgentManagerImpl.<init>(AgentManagerImpl.java:175)
+	at org.eclipse.oomph.p2.internal.core.AgentManagerImpl.<init>(AgentManagerImpl.java:68)
+	at org.eclipse.oomph.p2.core.P2Util.getAgentManager(P2Util.java:100)
+	at org.eclipse.oomph.p2.internal.core.P2CorePlugin$Implementation.stop(P2CorePlugin.java:177)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:903)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:571)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.stop(BundleContextImpl.java:895)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.stopWorker0(EquinoxBundle.java:1071)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.stopWorker(EquinoxBundle.java:392)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:695)
+	at org.eclipse.osgi.container.Module.stop(Module.java:554)
+	at org.eclipse.osgi.container.ModuleContainer.unresolve0(ModuleContainer.java:1227)
+	at org.eclipse.osgi.container.ModuleContainer.unresolve(ModuleContainer.java:1133)
+	at org.eclipse.osgi.container.ModuleContainer.refresh(ModuleContainer.java:1341)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerWiring.dispatchEvent(ModuleContainer.java:1736)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerWiring.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-12 08:49:09.222
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-12 08:49:10.032
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-12 08:49:10.033
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.036
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:111)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.036
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:111)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.037
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:111)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.060
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.joran.JoranConfigurator.lambda$addElementSelectorAndActionAssociations$0(JoranConfigurator.java:54)
+	at ch.qos.logback.core.joran.spi.SaxEventInterpreter.getApplicableAction(SaxEventInterpreter.java:222)
+	at ch.qos.logback.core.joran.spi.SaxEventInterpreter.startElement(SaxEventInterpreter.java:136)
+	at ch.qos.logback.core.joran.spi.SaxEventInterpreter.startElement(SaxEventInterpreter.java:120)
+	at ch.qos.logback.core.joran.spi.EventPlayer.play(EventPlayer.java:52)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.playSaxEvents(GenericXMLConfigurator.java:204)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.buildModelFromSaxEventList(GenericXMLConfigurator.java:198)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:172)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.060
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.joran.JoranConfigurator.lambda$addElementSelectorAndActionAssociations$0(JoranConfigurator.java:54)
+	at ch.qos.logback.core.joran.spi.SaxEventInterpreter.getApplicableAction(SaxEventInterpreter.java:222)
+	at ch.qos.logback.core.joran.spi.SaxEventInterpreter.startElement(SaxEventInterpreter.java:136)
+	at ch.qos.logback.core.joran.spi.SaxEventInterpreter.startElement(SaxEventInterpreter.java:120)
+	at ch.qos.logback.core.joran.spi.EventPlayer.play(EventPlayer.java:52)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.playSaxEvents(GenericXMLConfigurator.java:204)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.buildModelFromSaxEventList(GenericXMLConfigurator.java:198)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:172)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.061
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.joran.JoranConfigurator.lambda$addElementSelectorAndActionAssociations$0(JoranConfigurator.java:54)
+	at ch.qos.logback.core.joran.spi.SaxEventInterpreter.getApplicableAction(SaxEventInterpreter.java:222)
+	at ch.qos.logback.core.joran.spi.SaxEventInterpreter.startElement(SaxEventInterpreter.java:136)
+	at ch.qos.logback.core.joran.spi.SaxEventInterpreter.startElement(SaxEventInterpreter.java:120)
+	at ch.qos.logback.core.joran.spi.EventPlayer.play(EventPlayer.java:52)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.playSaxEvents(GenericXMLConfigurator.java:204)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.buildModelFromSaxEventList(GenericXMLConfigurator.java:198)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:172)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.061
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.joran.JoranConfigurator.lambda$addElementSelectorAndActionAssociations$0(JoranConfigurator.java:54)
+	at ch.qos.logback.core.joran.spi.SaxEventInterpreter.getApplicableAction(SaxEventInterpreter.java:222)
+	at ch.qos.logback.core.joran.spi.SaxEventInterpreter.startElement(SaxEventInterpreter.java:136)
+	at ch.qos.logback.core.joran.spi.SaxEventInterpreter.startElement(SaxEventInterpreter.java:120)
+	at ch.qos.logback.core.joran.spi.EventPlayer.play(EventPlayer.java:52)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.playSaxEvents(GenericXMLConfigurator.java:204)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.buildModelFromSaxEventList(GenericXMLConfigurator.java:198)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:172)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.065
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.joran.JoranConfigurator.sanityCheck(JoranConfigurator.java:80)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:177)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.065
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.joran.JoranConfigurator.sanityCheck(JoranConfigurator.java:80)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:177)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.067
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.joran.JoranConfigurator.sanityCheck(JoranConfigurator.java:80)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:177)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.067
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.joran.JoranConfigurator.sanityCheck(JoranConfigurator.java:80)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:177)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.068
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.joran.JoranConfigurator.addDefaultNestedComponentRegistryRules(JoranConfigurator.java:85)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.buildModelInterpretationContext(GenericXMLConfigurator.java:156)
+	at ch.qos.logback.core.joran.JoranConfiguratorBase.buildModelInterpretationContext(JoranConfiguratorBase.java:122)
+	at ch.qos.logback.classic.joran.JoranConfigurator.buildModelInterpretationContext(JoranConfigurator.java:95)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.processModel(GenericXMLConfigurator.java:208)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:178)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.070
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.joran.JoranConfigurator.addDefaultNestedComponentRegistryRules(JoranConfigurator.java:85)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.buildModelInterpretationContext(GenericXMLConfigurator.java:156)
+	at ch.qos.logback.core.joran.JoranConfiguratorBase.buildModelInterpretationContext(JoranConfiguratorBase.java:122)
+	at ch.qos.logback.classic.joran.JoranConfigurator.buildModelInterpretationContext(JoranConfigurator.java:95)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.processModel(GenericXMLConfigurator.java:208)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:178)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.071
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.joran.JoranConfigurator.addDefaultNestedComponentRegistryRules(JoranConfigurator.java:85)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.buildModelInterpretationContext(GenericXMLConfigurator.java:156)
+	at ch.qos.logback.core.joran.JoranConfiguratorBase.buildModelInterpretationContext(JoranConfiguratorBase.java:122)
+	at ch.qos.logback.classic.joran.JoranConfigurator.buildModelInterpretationContext(JoranConfigurator.java:95)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.processModel(GenericXMLConfigurator.java:208)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:178)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.071
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.joran.JoranConfigurator.addDefaultNestedComponentRegistryRules(JoranConfigurator.java:85)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.buildModelInterpretationContext(GenericXMLConfigurator.java:156)
+	at ch.qos.logback.core.joran.JoranConfiguratorBase.buildModelInterpretationContext(JoranConfiguratorBase.java:122)
+	at ch.qos.logback.classic.joran.JoranConfigurator.buildModelInterpretationContext(JoranConfigurator.java:95)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.processModel(GenericXMLConfigurator.java:208)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:178)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.071
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.model.processor.LogbackClassicDefaultNestedComponentRules.createTuplesList(LogbackClassicDefaultNestedComponentRules.java:62)
+	at ch.qos.logback.classic.model.processor.LogbackClassicDefaultNestedComponentRules.<clinit>(LogbackClassicDefaultNestedComponentRules.java:44)
+	at ch.qos.logback.classic.joran.JoranConfigurator.addDefaultNestedComponentRegistryRules(JoranConfigurator.java:85)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.buildModelInterpretationContext(GenericXMLConfigurator.java:156)
+	at ch.qos.logback.core.joran.JoranConfiguratorBase.buildModelInterpretationContext(JoranConfiguratorBase.java:122)
+	at ch.qos.logback.classic.joran.JoranConfigurator.buildModelInterpretationContext(JoranConfigurator.java:95)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.processModel(GenericXMLConfigurator.java:208)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:178)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.072
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.model.processor.LogbackClassicDefaultNestedComponentRules.createTuplesList(LogbackClassicDefaultNestedComponentRules.java:62)
+	at ch.qos.logback.classic.model.processor.LogbackClassicDefaultNestedComponentRules.<clinit>(LogbackClassicDefaultNestedComponentRules.java:44)
+	at ch.qos.logback.classic.joran.JoranConfigurator.addDefaultNestedComponentRegistryRules(JoranConfigurator.java:85)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.buildModelInterpretationContext(GenericXMLConfigurator.java:156)
+	at ch.qos.logback.core.joran.JoranConfiguratorBase.buildModelInterpretationContext(JoranConfiguratorBase.java:122)
+	at ch.qos.logback.classic.joran.JoranConfigurator.buildModelInterpretationContext(JoranConfigurator.java:95)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.processModel(GenericXMLConfigurator.java:208)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:178)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.073
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.model.processor.LogbackClassicDefaultNestedComponentRules.createTuplesList(LogbackClassicDefaultNestedComponentRules.java:62)
+	at ch.qos.logback.classic.model.processor.LogbackClassicDefaultNestedComponentRules.<clinit>(LogbackClassicDefaultNestedComponentRules.java:44)
+	at ch.qos.logback.classic.joran.JoranConfigurator.addDefaultNestedComponentRegistryRules(JoranConfigurator.java:85)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.buildModelInterpretationContext(GenericXMLConfigurator.java:156)
+	at ch.qos.logback.core.joran.JoranConfiguratorBase.buildModelInterpretationContext(JoranConfiguratorBase.java:122)
+	at ch.qos.logback.classic.joran.JoranConfigurator.buildModelInterpretationContext(JoranConfigurator.java:95)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.processModel(GenericXMLConfigurator.java:208)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:178)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.073
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.model.processor.LogbackClassicDefaultNestedComponentRules.createTuplesList(LogbackClassicDefaultNestedComponentRules.java:62)
+	at ch.qos.logback.classic.model.processor.LogbackClassicDefaultNestedComponentRules.<clinit>(LogbackClassicDefaultNestedComponentRules.java:44)
+	at ch.qos.logback.classic.joran.JoranConfigurator.addDefaultNestedComponentRegistryRules(JoranConfigurator.java:85)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.buildModelInterpretationContext(GenericXMLConfigurator.java:156)
+	at ch.qos.logback.core.joran.JoranConfiguratorBase.buildModelInterpretationContext(JoranConfiguratorBase.java:122)
+	at ch.qos.logback.classic.joran.JoranConfigurator.buildModelInterpretationContext(JoranConfigurator.java:95)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.processModel(GenericXMLConfigurator.java:208)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:178)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.078
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.model.processor.LogbackClassicDefaultNestedComponentRules.addDefaultNestedComponentRegistryRules(LogbackClassicDefaultNestedComponentRules.java:53)
+	at ch.qos.logback.classic.joran.JoranConfigurator.addDefaultNestedComponentRegistryRules(JoranConfigurator.java:85)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.buildModelInterpretationContext(GenericXMLConfigurator.java:156)
+	at ch.qos.logback.core.joran.JoranConfiguratorBase.buildModelInterpretationContext(JoranConfiguratorBase.java:122)
+	at ch.qos.logback.classic.joran.JoranConfigurator.buildModelInterpretationContext(JoranConfigurator.java:95)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.processModel(GenericXMLConfigurator.java:208)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:178)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.079
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.model.processor.LogbackClassicDefaultNestedComponentRules.addDefaultNestedComponentRegistryRules(LogbackClassicDefaultNestedComponentRules.java:53)
+	at ch.qos.logback.classic.joran.JoranConfigurator.addDefaultNestedComponentRegistryRules(JoranConfigurator.java:85)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.buildModelInterpretationContext(GenericXMLConfigurator.java:156)
+	at ch.qos.logback.core.joran.JoranConfiguratorBase.buildModelInterpretationContext(JoranConfiguratorBase.java:122)
+	at ch.qos.logback.classic.joran.JoranConfigurator.buildModelInterpretationContext(JoranConfigurator.java:95)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.processModel(GenericXMLConfigurator.java:208)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:178)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.079
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.model.processor.LogbackClassicDefaultNestedComponentRules.addDefaultNestedComponentRegistryRules(LogbackClassicDefaultNestedComponentRules.java:53)
+	at ch.qos.logback.classic.joran.JoranConfigurator.addDefaultNestedComponentRegistryRules(JoranConfigurator.java:85)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.buildModelInterpretationContext(GenericXMLConfigurator.java:156)
+	at ch.qos.logback.core.joran.JoranConfiguratorBase.buildModelInterpretationContext(JoranConfiguratorBase.java:122)
+	at ch.qos.logback.classic.joran.JoranConfigurator.buildModelInterpretationContext(JoranConfigurator.java:95)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.processModel(GenericXMLConfigurator.java:208)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:178)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY ch.qos.logback.classic 4 0 2024-09-12 08:49:10.079
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: ch.qos.logback.classic_1.5.6
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.model.processor.LogbackClassicDefaultNestedComponentRules.addDefaultNestedComponentRegistryRules(LogbackClassicDefaultNestedComponentRules.java:53)
+	at ch.qos.logback.classic.joran.JoranConfigurator.addDefaultNestedComponentRegistryRules(JoranConfigurator.java:85)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.buildModelInterpretationContext(GenericXMLConfigurator.java:156)
+	at ch.qos.logback.core.joran.JoranConfiguratorBase.buildModelInterpretationContext(JoranConfiguratorBase.java:122)
+	at ch.qos.logback.classic.joran.JoranConfigurator.buildModelInterpretationContext(JoranConfigurator.java:95)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.processModel(GenericXMLConfigurator.java:208)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:178)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY org.apache.aries.spifly.dynamic.bundle 4 0 2024-09-12 08:49:10.085
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "java.lang.ClassLoader.getResourceAsStream(String)" because "this.loader" is null
+	at org.apache.aries.spifly.dynamic.OSGiFriendlyClassWriter.getCommonSuperClass(OSGiFriendlyClassWriter.java:82)
+	at org.objectweb.asm.SymbolTable.addMergedType(SymbolTable.java:1264)
+	at org.objectweb.asm.Frame.merge(Frame.java:1311)
+	at org.objectweb.asm.Frame.merge(Frame.java:1224)
+	at org.objectweb.asm.MethodWriter.computeAllFrames(MethodWriter.java:1612)
+	at org.objectweb.asm.MethodWriter.visitMaxs(MethodWriter.java:1548)
+	at org.objectweb.asm.MethodVisitor.visitMaxs(MethodVisitor.java:786)
+	at org.objectweb.asm.commons.LocalVariablesSorter.visitMaxs(LocalVariablesSorter.java:147)
+	at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:767)
+	at org.objectweb.asm.commons.JSRInlinerAdapter.visitEnd(JSRInlinerAdapter.java:159)
+	at org.objectweb.asm.ClassReader.readMethod(ClassReader.java:1516)
+	at org.objectweb.asm.ClassReader.accept(ClassReader.java:745)
+	at org.objectweb.asm.ClassReader.accept(ClassReader.java:425)
+	at org.apache.aries.spifly.dynamic.ClientWeavingHook.weave(ClientWeavingHook.java:60)
+	at org.eclipse.osgi.internal.weaving.WovenClassImpl.call(WovenClassImpl.java:188)
+	at org.eclipse.osgi.internal.weaving.WovenClassImpl.call(WovenClassImpl.java:1)
+	at org.eclipse.osgi.internal.serviceregistry.ServiceRegistry.notifyHookPrivileged(ServiceRegistry.java:1387)
+	at org.eclipse.osgi.internal.serviceregistry.ServiceRegistry.notifyHooksPrivileged(ServiceRegistry.java:1360)
+	at org.eclipse.osgi.internal.weaving.WovenClassImpl.callHooks(WovenClassImpl.java:250)
+	at org.eclipse.osgi.internal.weaving.WeavingHookConfigurator.processClass(WeavingHookConfigurator.java:82)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.processClass(ClasspathManager.java:794)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.defineClass(ClasspathManager.java:764)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:691)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:657)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:637)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:616)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:348)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:414)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:520)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at ch.qos.logback.classic.joran.JoranConfigurator.addModelHandlerAssociations(JoranConfigurator.java:102)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.processModel(GenericXMLConfigurator.java:212)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:178)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:123)
+	at ch.qos.logback.core.joran.GenericXMLConfigurator.doConfigure(GenericXMLConfigurator.java:66)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.loadConfiguration(M2ELogbackConfigurator.java:113)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.configureLogback(M2ELogbackConfigurator.java:88)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator.lambda$0(M2ELogbackConfigurator.java:63)
+	at org.eclipse.m2e.logback.configuration.M2ELogbackConfigurator$1.run(M2ELogbackConfigurator.java:136)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:571)
+	at java.base/java.util.TimerThread.run(Timer.java:521)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-12 08:49:13.130
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2024-09-12 08:49:18.306
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: org.eclipse.ecf.provider.filetransfer_3.3.0.v20230422-0242
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapterFactory.getAdapterList(MultiProtocolRetrieveAdapterFactory.java:31)
+	at org.eclipse.core.internal.runtime.AdapterManager.addFactoriesFor(AdapterManager.java:122)
+	at org.eclipse.core.internal.runtime.AdapterManager$AdapterLookup.getMap(AdapterManager.java:439)
+	at org.eclipse.core.internal.runtime.AdapterManager.getFactories(AdapterManager.java:177)
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:300)
+	at org.eclipse.core.internal.runtime.AdapterManager.loadAdapter(AdapterManager.java:336)
+	at org.eclipse.ecf.core.AbstractContainer.getAdapter(AbstractContainer.java:78)
+	at org.eclipse.oomph.util.ObjectUtil$AdaptableHelper.adapt(ObjectUtil.java:86)
+	at org.eclipse.oomph.util.ObjectUtil.adapt(ObjectUtil.java:61)
+	at org.eclipse.oomph.setup.internal.core.util.ECFURIHandlerImpl$InputStreamConnectionHandler.createConnectionListener(ECFURIHandlerImpl.java:1874)
+	at org.eclipse.oomph.setup.internal.core.util.ECFURIHandlerImpl$ConnectionHandler.process(ECFURIHandlerImpl.java:1636)
+	at org.eclipse.oomph.setup.internal.core.util.ECFURIHandlerImpl.createInputStream(ECFURIHandlerImpl.java:321)
+	at org.eclipse.emf.ecore.resource.impl.ExtensibleURIConverterImpl.createInputStream(ExtensibleURIConverterImpl.java:358)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1314)
+	at org.eclipse.oomph.setup.internal.core.util.SetupCoreUtil.handleArchiveRedirection(SetupCoreUtil.java:696)
+	at org.eclipse.oomph.setup.internal.core.util.SetupCoreUtil.configureResourceSet(SetupCoreUtil.java:474)
+	at org.eclipse.oomph.setup.internal.core.util.SetupCoreUtil.configureResourceSet(SetupCoreUtil.java:268)
+	at org.eclipse.oomph.setup.internal.core.util.SetupCoreUtil.createResourceSet(SetupCoreUtil.java:262)
+	at org.eclipse.oomph.setup.ui.recorder.RecorderManager.<clinit>(RecorderManager.java:121)
+	at org.eclipse.oomph.setup.ui.SetupUIPlugin.performStartup(SetupUIPlugin.java:218)
+	at org.eclipse.oomph.setup.ui.EarlyStartup.earlyStartup(EarlyStartup.java:23)
+	at org.eclipse.oomph.internal.ui.EarlyStart.run(EarlyStart.java:119)
+	at org.eclipse.oomph.internal.ui.EarlyStart$1.run(EarlyStart.java:98)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.oomph.ui 4 0 2024-09-12 08:49:18.306
+!MESSAGE java.lang.ExceptionInInitializerError
+!STACK 0
+java.lang.ExceptionInInitializerError
+	at org.eclipse.oomph.setup.ui.SetupUIPlugin.performStartup(SetupUIPlugin.java:218)
+	at org.eclipse.oomph.setup.ui.EarlyStartup.earlyStartup(EarlyStartup.java:23)
+	at org.eclipse.oomph.internal.ui.EarlyStart.run(EarlyStart.java:119)
+	at org.eclipse.oomph.internal.ui.EarlyStart$1.run(EarlyStart.java:98)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.NullPointerException: Cannot invoke "org.eclipse.ecf.filetransfer.IRetrieveFileTransferContainerAdapter.setProxy(org.eclipse.ecf.core.util.Proxy)" because "this.fileTransfer" is null
+	at org.eclipse.oomph.setup.internal.core.util.ECFURIHandlerImpl$InputStreamConnectionHandler.createConnectionListener(ECFURIHandlerImpl.java:1876)
+	at org.eclipse.oomph.setup.internal.core.util.ECFURIHandlerImpl$ConnectionHandler.process(ECFURIHandlerImpl.java:1636)
+	at org.eclipse.oomph.setup.internal.core.util.ECFURIHandlerImpl.createInputStream(ECFURIHandlerImpl.java:321)
+	at org.eclipse.emf.ecore.resource.impl.ExtensibleURIConverterImpl.createInputStream(ExtensibleURIConverterImpl.java:358)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1314)
+	at org.eclipse.oomph.setup.internal.core.util.SetupCoreUtil.handleArchiveRedirection(SetupCoreUtil.java:696)
+	at org.eclipse.oomph.setup.internal.core.util.SetupCoreUtil.configureResourceSet(SetupCoreUtil.java:474)
+	at org.eclipse.oomph.setup.internal.core.util.SetupCoreUtil.configureResourceSet(SetupCoreUtil.java:268)
+	at org.eclipse.oomph.setup.internal.core.util.SetupCoreUtil.createResourceSet(SetupCoreUtil.java:262)
+	at org.eclipse.oomph.setup.ui.recorder.RecorderManager.<clinit>(RecorderManager.java:121)
+	... 5 more
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2024-09-12 08:49:18.306
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: org.eclipse.ecf.provider.filetransfer_3.3.0.v20230422-0242
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapterFactory.getAdapterList(MultiProtocolRetrieveAdapterFactory.java:31)
+	at org.eclipse.core.internal.runtime.AdapterManager.addFactoriesFor(AdapterManager.java:122)
+	at org.eclipse.core.internal.runtime.AdapterManager$AdapterLookup.getMap(AdapterManager.java:439)
+	at org.eclipse.core.internal.runtime.AdapterManager.getFactories(AdapterManager.java:177)
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:300)
+	at org.eclipse.core.internal.runtime.AdapterManager.loadAdapter(AdapterManager.java:336)
+	at org.eclipse.ecf.core.AbstractContainer.getAdapter(AbstractContainer.java:78)
+	at org.eclipse.oomph.util.ObjectUtil$AdaptableHelper.adapt(ObjectUtil.java:86)
+	at org.eclipse.oomph.util.ObjectUtil.adapt(ObjectUtil.java:61)
+	at org.eclipse.oomph.setup.internal.core.util.ECFURIHandlerImpl$InputStreamConnectionHandler.createConnectionListener(ECFURIHandlerImpl.java:1874)
+	at org.eclipse.oomph.setup.internal.core.util.ECFURIHandlerImpl$ConnectionHandler.process(ECFURIHandlerImpl.java:1636)
+	at org.eclipse.oomph.setup.internal.core.util.ECFURIHandlerImpl.createInputStream(ECFURIHandlerImpl.java:321)
+	at org.eclipse.emf.ecore.resource.impl.ExtensibleURIConverterImpl.createInputStream(ExtensibleURIConverterImpl.java:358)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1314)
+	at org.eclipse.oomph.setup.internal.core.util.SetupCoreUtil.handleArchiveRedirection(SetupCoreUtil.java:696)
+	at org.eclipse.oomph.setup.internal.core.util.SetupCoreUtil.configureResourceSet(SetupCoreUtil.java:474)
+	at org.eclipse.oomph.setup.internal.core.util.SetupCoreUtil.configureResourceSet(SetupCoreUtil.java:268)
+	at org.eclipse.oomph.setup.internal.core.util.SetupCoreUtil.createResourceSet(SetupCoreUtil.java:262)
+	at org.eclipse.oomph.setup.ui.recorder.RecorderManager.<clinit>(RecorderManager.java:121)
+	at org.eclipse.oomph.setup.ui.SetupUIPlugin.performStartup(SetupUIPlugin.java:218)
+	at org.eclipse.oomph.setup.ui.EarlyStartup.earlyStartup(EarlyStartup.java:23)
+	at org.eclipse.oomph.internal.ui.EarlyStart.run(EarlyStart.java:119)
+	at org.eclipse.oomph.internal.ui.EarlyStart$1.run(EarlyStart.java:98)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2024-09-12 08:49:18.307
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: Invalid class loader from a refreshed bundle is being used: org.eclipse.ecf.provider.filetransfer_3.3.0.v20230422-0242
+	at org.eclipse.osgi.internal.loader.BundleLoader.getProviderLoader(BundleLoader.java:1057)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findRequiredSource(BundleLoader.java:1300)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:510)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapterFactory.getAdapterList(MultiProtocolRetrieveAdapterFactory.java:31)
+	at org.eclipse.core.internal.runtime.AdapterManager.addFactoriesFor(AdapterManager.java:122)
+	at org.eclipse.core.internal.runtime.AdapterManager$AdapterLookup.getMap(AdapterManager.java:439)
+	at org.eclipse.core.internal.runtime.AdapterManager.getFactories(AdapterManager.java:177)
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:300)
+	at org.eclipse.core.internal.runtime.AdapterManager.loadAdapter(AdapterManager.java:336)
+	at org.eclipse.ecf.core.AbstractContainer.getAdapter(AbstractContainer.java:78)
+	at org.eclipse.oomph.util.ObjectUtil$AdaptableHelper.adapt(ObjectUtil.java:86)
+	at org.eclipse.oomph.util.ObjectUtil.adapt(ObjectUtil.java:61)
+	at org.eclipse.oomph.setup.internal.core.util.ECFURIHandlerImpl$InputStreamConnectionHandler.createConnectionListener(ECFURIHandlerImpl.java:1874)
+	at org.eclipse.oomph.setup.internal.core.util.ECFURIHandlerImpl$ConnectionHandler.process(ECFURIHandlerImpl.java:1636)
+	at org.eclipse.oomph.setup.internal.core.util.ECFURIHandlerImpl.createInputStream(ECFURIHandlerImpl.java:321)
+	at org.eclipse.emf.ecore.resource.impl.ExtensibleURIConverterImpl.createInputStream(ExtensibleURIConverterImpl.java:358)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1314)
+	at org.eclipse.oomph.setup.internal.core.util.SetupCoreUtil.handleArchiveRedirection(SetupCoreUtil.java:696)
+	at org.eclipse.oomph.setup.internal.core.util.SetupCoreUtil.configureResourceSet(SetupCoreUtil.java:474)
+	at org.eclipse.oomph.setup.internal.core.util.SetupCoreUtil.configureResourceSet(SetupCoreUtil.java:268)
+	at org.eclipse.oomph.setup.internal.core.util.SetupCoreUtil.createResourceSet(SetupCoreUtil.java:262)
+	at org.eclipse.oomph.setup.ui.recorder.RecorderManager.<clinit>(RecorderManager.java:121)
+	at org.eclipse.oomph.setup.ui.SetupUIPlugin.performStartup(SetupUIPlugin.java:218)
+	at org.eclipse.oomph.setup.ui.EarlyStartup.earlyStartup(EarlyStartup.java:23)
+	at org.eclipse.oomph.internal.ui.EarlyStart.run(EarlyStart.java:119)
+	at org.eclipse.oomph.internal.ui.EarlyStart$1.run(EarlyStart.java:98)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.preferences 4 0 2024-09-12 11:58:00.846
+!MESSAGE Exception loading preferences from: .
+!STACK 0
+org.osgi.service.prefs.BackingStoreException: Unable to determine provisioning agent from location: file:\2fC:\2fUsers\2fManha\2f.p2\2f
+	at org.eclipse.equinox.internal.p2.engine.ProfilePreferences.getAgent(ProfilePreferences.java:168)
+	at org.eclipse.equinox.internal.p2.engine.ProfilePreferences.load(ProfilePreferences.java:255)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:375)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:630)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:766)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:637)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:766)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:637)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:766)
+	at org.eclipse.core.internal.preferences.RootPreferences.getNode(RootPreferences.java:93)
+	at org.eclipse.core.internal.preferences.RootPreferences.node(RootPreferences.java:70)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getPreferences(AbstractRepositoryManager.java:524)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.remember(AbstractRepositoryManager.java:914)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.stop(AbstractRepositoryManager.java:1105)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningAgent.unregisterService(ProvisioningAgent.java:126)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningAgent.removedService(ProvisioningAgent.java:182)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerRemoved(ServiceTracker.java:973)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerRemoved(ServiceTracker.java:1)
+	at org.osgi.util.tracker.AbstractTracked.untrack(AbstractTracked.java:342)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.serviceChanged(ServiceTracker.java:915)
+	at org.eclipse.osgi.internal.serviceregistry.FilteredServiceListener.serviceChanged(FilteredServiceListener.java:133)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.dispatchEvent(BundleContextImpl.java:995)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.osgi.internal.serviceregistry.ServiceRegistry.publishServiceEventPrivileged(ServiceRegistry.java:956)
+	at org.eclipse.osgi.internal.serviceregistry.ServiceRegistry.publishServiceEvent(ServiceRegistry.java:890)
+	at org.eclipse.osgi.internal.serviceregistry.ServiceRegistrationImpl.unregister(ServiceRegistrationImpl.java:245)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager$3.unregister(AbstractComponentManager.java:952)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager$3.unregister(AbstractComponentManager.java:915)
+	at org.apache.felix.scr.impl.manager.RegistrationManager.changeRegistration(RegistrationManager.java:140)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.unregisterService(AbstractComponentManager.java:994)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.doDeactivate(AbstractComponentManager.java:844)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.deactivateInternal(AbstractComponentManager.java:825)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.dispose(AbstractComponentManager.java:589)
+	at org.apache.felix.scr.impl.manager.ConfigurableComponentHolder.disposeComponents(ConfigurableComponentHolder.java:722)
+	at org.apache.felix.scr.impl.BundleComponentActivator.dispose(BundleComponentActivator.java:492)
+	at org.apache.felix.scr.impl.Activator.disposeComponents(Activator.java:672)
+	at org.apache.felix.scr.impl.Activator.access$300(Activator.java:75)
+	at org.apache.felix.scr.impl.Activator$ScrExtension.destroy(Activator.java:510)
+	at org.apache.felix.scr.impl.AbstractExtender$1.run(AbstractExtender.java:216)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.apache.felix.scr.impl.AbstractExtender.destroyExtension(AbstractExtender.java:238)
+	at org.apache.felix.scr.impl.AbstractExtender.bundleChanged(AbstractExtender.java:132)
+	at org.apache.felix.scr.impl.Activator.bundleChanged(Activator.java:256)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.dispatchEvent(BundleContextImpl.java:982)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEventPrivileged(EquinoxEventPublisher.java:235)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:134)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:126)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor.publishModuleEvent(EquinoxContainerAdaptor.java:229)
+	at org.eclipse.osgi.container.Module.publishEvent(Module.java:531)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:693)
+	at org.eclipse.osgi.container.Module.stop(Module.java:554)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:2116)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1986)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:281)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:222)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:695)
+	at org.eclipse.osgi.container.Module.stop(Module.java:554)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:212)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:240)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.equinox.preferences 4 0 2024-09-12 11:58:00.848
+!MESSAGE Exception loading preferences from: .
+!STACK 0
+org.osgi.service.prefs.BackingStoreException: Unable to determine provisioning agent from location: file:\2fC:\2fUsers\2fManha\2f.p2\2f
+	at org.eclipse.equinox.internal.p2.engine.ProfilePreferences.getAgent(ProfilePreferences.java:168)
+	at org.eclipse.equinox.internal.p2.engine.ProfilePreferences.load(ProfilePreferences.java:255)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:375)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:630)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:766)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:637)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:766)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:637)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:766)
+	at org.eclipse.core.internal.preferences.RootPreferences.getNode(RootPreferences.java:93)
+	at org.eclipse.core.internal.preferences.RootPreferences.node(RootPreferences.java:70)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getPreferences(AbstractRepositoryManager.java:524)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.remember(AbstractRepositoryManager.java:914)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.stop(AbstractRepositoryManager.java:1105)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningAgent.unregisterService(ProvisioningAgent.java:126)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningAgent.removedService(ProvisioningAgent.java:182)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerRemoved(ServiceTracker.java:973)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerRemoved(ServiceTracker.java:1)
+	at org.osgi.util.tracker.AbstractTracked.untrack(AbstractTracked.java:342)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.serviceChanged(ServiceTracker.java:915)
+	at org.eclipse.osgi.internal.serviceregistry.FilteredServiceListener.serviceChanged(FilteredServiceListener.java:133)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.dispatchEvent(BundleContextImpl.java:995)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.osgi.internal.serviceregistry.ServiceRegistry.publishServiceEventPrivileged(ServiceRegistry.java:956)
+	at org.eclipse.osgi.internal.serviceregistry.ServiceRegistry.publishServiceEvent(ServiceRegistry.java:890)
+	at org.eclipse.osgi.internal.serviceregistry.ServiceRegistrationImpl.unregister(ServiceRegistrationImpl.java:245)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager$3.unregister(AbstractComponentManager.java:952)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager$3.unregister(AbstractComponentManager.java:915)
+	at org.apache.felix.scr.impl.manager.RegistrationManager.changeRegistration(RegistrationManager.java:140)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.unregisterService(AbstractComponentManager.java:994)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.doDeactivate(AbstractComponentManager.java:844)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.deactivateInternal(AbstractComponentManager.java:825)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.dispose(AbstractComponentManager.java:589)
+	at org.apache.felix.scr.impl.manager.ConfigurableComponentHolder.disposeComponents(ConfigurableComponentHolder.java:722)
+	at org.apache.felix.scr.impl.BundleComponentActivator.dispose(BundleComponentActivator.java:492)
+	at org.apache.felix.scr.impl.Activator.disposeComponents(Activator.java:672)
+	at org.apache.felix.scr.impl.Activator.access$300(Activator.java:75)
+	at org.apache.felix.scr.impl.Activator$ScrExtension.destroy(Activator.java:510)
+	at org.apache.felix.scr.impl.AbstractExtender$1.run(AbstractExtender.java:216)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.apache.felix.scr.impl.AbstractExtender.destroyExtension(AbstractExtender.java:238)
+	at org.apache.felix.scr.impl.AbstractExtender.bundleChanged(AbstractExtender.java:132)
+	at org.apache.felix.scr.impl.Activator.bundleChanged(Activator.java:256)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.dispatchEvent(BundleContextImpl.java:982)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEventPrivileged(EquinoxEventPublisher.java:235)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:134)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:126)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor.publishModuleEvent(EquinoxContainerAdaptor.java:229)
+	at org.eclipse.osgi.container.Module.publishEvent(Module.java:531)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:693)
+	at org.eclipse.osgi.container.Module.stop(Module.java:554)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:2116)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1986)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:281)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:222)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:695)
+	at org.eclipse.osgi.container.Module.stop(Module.java:554)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:212)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:240)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+!SESSION 2024-09-13 08:00:31.223 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-13 08:00:49.550
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-13 08:00:50.529
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-13 08:00:55.936
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-13 11:22:45.327 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-13 11:22:47.001
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-13 11:22:47.862
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-13 11:22:51.124
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-13 11:29:19.241 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-13 11:29:20.547
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-13 11:29:21.347
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-13 11:29:24.223
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-16 08:17:58.981 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-16 08:18:17.071
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-16 08:18:18.141
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-16 08:18:22.691
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-16 10:46:33.643 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-16 10:46:51.409
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-09-16 10:46:52.019
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-16 10:46:52.412
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-16 10:46:57.091
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-17 08:07:11.102 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-17 08:07:30.783
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-09-17 08:07:31.558
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-17 08:07:31.986
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-17 08:07:37.030
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.jobs 4 2 2024-09-17 11:45:54.820
+!MESSAGE Ocorreu um erro interno durante: "Organizar Importações".
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: assertion failed: 
+	at org.eclipse.core.runtime.Assert.isTrue(Assert.java:119)
+	at org.eclipse.core.runtime.Assert.isTrue(Assert.java:104)
+	at org.eclipse.text.edits.TextEdit.<init>(TextEdit.java:153)
+	at org.eclipse.text.edits.ReplaceEdit.<init>(ReplaceEdit.java:39)
+	at org.eclipse.jdt.internal.core.dom.rewrite.imports.ImportEditor.createTextEdit(ImportEditor.java:200)
+	at org.eclipse.jdt.internal.core.dom.rewrite.imports.ImportRewriteAnalyzer.analyzeRewrite(ImportRewriteAnalyzer.java:565)
+	at org.eclipse.jdt.core.dom.rewrite.ImportRewrite.rewriteImports(ImportRewrite.java:1348)
+	at org.eclipse.jdt.core.manipulation.OrganizeImportsOperation.createTextEdit(OrganizeImportsOperation.java:648)
+	at org.eclipse.jdt.core.manipulation.OrganizeImportsOperation.run(OrganizeImportsOperation.java:571)
+	at org.eclipse.jdt.ui.actions.OrganizeImportsAction$1.run(OrganizeImportsAction.java:298)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2024-09-18 08:14:07.900 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-18 08:14:27.116
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-18 08:14:28.160
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-18 08:14:33.153
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 4 4 2024-09-18 08:53:35.761
+!MESSAGE JavaBuilder handling CoreException
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/javaCurso/bin/javaCurso/pastadeorigem.class)[275]: java.lang.Exception: Existe um recurso com um caso diferente: /javaCurso/bin/javaCurso/pastadeorigem.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:352)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:330)
+	at org.eclipse.core.internal.resources.File.create(File.java:130)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFileContents(AbstractImageBuilder.java:927)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:903)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:217)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:614)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:474)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:425)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:410)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.compile(BatchImageBuilder.java:211)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:341)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:79)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:286)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:310)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:221)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.core.resources 4 275 2024-09-18 08:53:35.763
+!MESSAGE Existe um recurso com um caso diferente: /javaCurso/bin/javaCurso/pastadeorigem.class.
+!STACK 0
+java.lang.Exception: Existe um recurso com um caso diferente: /javaCurso/bin/javaCurso/pastadeorigem.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:352)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:330)
+	at org.eclipse.core.internal.resources.File.create(File.java:130)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFileContents(AbstractImageBuilder.java:927)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:903)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:217)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:614)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:474)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:425)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:410)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.compile(BatchImageBuilder.java:211)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:341)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:79)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:286)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:310)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:221)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2024-09-19 08:05:57.915 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-19 08:06:17.668
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-09-19 08:06:18.452
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-19 08:06:18.904
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-19 08:06:24.938
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-19 08:42:29.966 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-19 08:42:34.266
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-19 08:42:35.487
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-19 08:42:39.478
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-20 07:56:49.116 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-20 07:57:07.537
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-09-20 07:57:08.322
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-20 07:57:08.738
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-20 07:57:13.813
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-23 08:13:52.366 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-23 08:14:10.144
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-09-23 08:14:10.821
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-23 08:14:11.246
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-23 08:14:15.734
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-23 11:14:00.401 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-23 11:14:15.555
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-23 11:14:16.430
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-23 11:14:19.895
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-25 08:08:17.291 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-25 08:08:34.819
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-09-25 08:08:35.477
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-25 08:08:35.866
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-25 08:08:40.524
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-25 08:13:04.539 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-25 08:13:19.686
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-25 08:13:20.551
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-25 08:13:24.662
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui.ide 4 4 2024-09-25 11:56:19.243
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:681)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:306)
+	at org.eclipse.jface.resource.DeferredImageDescriptor.createImage(DeferredImageDescriptor.java:85)
+	at org.eclipse.jface.resource.ImageDescriptor.createResource(ImageDescriptor.java:229)
+	at org.eclipse.jface.resource.DeviceResourceManager.allocate(DeviceResourceManager.java:56)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:92)
+	at org.eclipse.jface.resource.LazyResourceManager.create(LazyResourceManager.java:88)
+	at org.eclipse.jface.resource.LocalResourceManager.allocate(LocalResourceManager.java:71)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:92)
+	at org.eclipse.ui.actions.OpenWithMenu.getImage(OpenWithMenu.java:137)
+	at org.eclipse.ui.actions.OpenWithMenu.createMenuItem(OpenWithMenu.java:174)
+	at org.eclipse.ui.actions.OpenWithMenu.fill(OpenWithMenu.java:271)
+	at org.eclipse.jface.action.MenuManager.doItemFill(MenuManager.java:728)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:805)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:672)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.scheduleManagerUpdate(MenuManagerRenderer.java:1161)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.processContents(MenuManagerRenderer.java:633)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.subscribeTopicChildAdded(MenuManagerRenderer.java:320)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4814)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler.handleEvent(UIEventObjectSupplier.java:64)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:131)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:73)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.emf.ecore.util.EcoreEList.dispatchNotification(EcoreEList.java:248)
+	at org.eclipse.emf.common.notify.impl.NotifyingListImpl.addUnique(NotifyingListImpl.java:294)
+	at org.eclipse.emf.common.util.AbstractEList.add(AbstractEList.java:304)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.reconcileManagerToModel(MenuManagerRenderer.java:1022)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.reconcileManagerToModel(MenuManagerRenderer.java:960)
+	at org.eclipse.ui.internal.PopupMenuExtender.addMenuContributions(PopupMenuExtender.java:379)
+	at org.eclipse.ui.internal.PopupMenuExtender.menuAboutToShow(PopupMenuExtender.java:355)
+	at org.eclipse.jface.action.MenuManager.fireAboutToShow(MenuManager.java:338)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:467)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:494)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:272)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4285)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1160)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1184)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1165)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:5121)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4741)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1482)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2319)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5050)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:241)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4124)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3667)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:152)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+!SESSION 2024-09-26 08:09:44.940 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-26 08:10:03.242
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-26 08:10:04.236
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-26 08:10:09.085
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-26 09:21:52.338 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-26 09:22:08.187
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-26 09:22:09.050
+!MESSAGE Logback config file: C:\Users\Manha\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-26 09:22:13.277
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

@@ -1,0 +1,42 @@
+package javaCurso;
+
+public class TrabalbhandocomStrings{
+
+	public static void main(String[] args) {
+	String texto ="Bem vindo ao Curso de java";
+	String texto2="vamos aprender String.";
+	//.Comprimento da strig:
+	
+	String nome="Genivaldo de Holanda Monteiro";
+	System.out.println("Comprimentoda String:" +nome.length());
+	//2.Concaternar Strigs:
+	String textoCompleto=texto+" "+texto2; 
+	
+	System.out.println("texto completo :"+textoCompleto); 
+	String nome2="genivaldo";
+	String SobreNome="holanda";
+	
+	System.out.println(nome2 + " "+SobreNome);
+	
+	
+	
+	//3.Converter para maiúsculo E Minosculas:
+	System.out.println("MAIÚSCULAS.+"+texto.toUpperCase()); 
+	System.out.println("minuscular: "+texto.towercaseCase());
+	//4.Substituir uma parte da String:
+	String novoTexto = texto.replace("java","vitoria");
+	System.out.println("textoapós"bemma"lsubstituição:+novoTexto");
+	//5.Buscar por uma substring:
+	int posiçao = texto.inexof(curso);
+	System.out.println("posição da palavra"'curso':+"posição)
+	
+		
+	
+	
+	
+	
+	
+
+	}
+
+}
